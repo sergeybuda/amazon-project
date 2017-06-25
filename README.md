@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# Amazon Project
+## GREENIES Original TEENIE Dog Dental Chews Dog Treats 
 
 *Default Structure for A Basic Project*
 
